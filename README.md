@@ -1,4 +1,5 @@
 # apple_project
+website :  https://zouhair-elhilaly.github.io/apple_project/
 # 📱 iPhone Store - Landing Page
 
 Welcome to the **iPhone Store**, a clean and responsive landing page for showcasing the **iPhone 13 Pro Max**. This project is built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**.
